@@ -7,4 +7,6 @@
 
 ![png](readme_resources/spam-sms-web-app.PNG)
 
+![png](readme_resources/not spam.PNG)
 
+![png](readme_resources/spam.PNG)
