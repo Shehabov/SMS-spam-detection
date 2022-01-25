@@ -6,7 +6,7 @@
 • A glimpse of the web app:
 
 ![png](readme_resources/spam-sms-web-app.PNG)
-
+<br>
 ![png](readme_resources/notSpam.PNG)
-
+<br>
 ![png](readme_resources/spam.PNG)
